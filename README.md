@@ -76,7 +76,7 @@ Each tuned model's performance (and the baseline XGBoost model) was evaluated on
     *   Run the cells sequentially from top to bottom.
     *   **Note:** The Optuna hyperparameter tuning cells can take some time to execute depending on the number of trials (50 trials were set for XGBoost, 50 for Random Forest in the notebook).
 
-## (Optional) Integration Idea with Digital Twin
+## Integration Idea with Digital Twin
 
 A Digital Twin (DT) is a dynamic virtual representation of a physical asset, process, or system. For human health, a DT could model an individual's physiological state.
 
